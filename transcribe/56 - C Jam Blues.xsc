@@ -1,9 +1,9 @@
-XSC Transcribe.Document Version 6089.00
-Transcribe!,Windows,8,74,7,S,0
+Transcribe!,6089,Seventh String Software
+Transcribe!,GTK,8,74,7,S,1
 
 SectionStart,Main
-SaveDate,2020-01-11 14:30
-SoundFileName,56 - C Jam Blues.mp3,Win,C:\\Users\\Baru\\Downloads\\56 - C Jam Blues.mp3
+SaveDate,2020-01-11 15:06
+SoundFileName,56 - C Jam Blues.mp3,Nix,/home/schef/git/c_jam_blues_trombone_solo_transcription/transcribe/56 - C Jam Blues.mp3
 SoundFileInfo,MP3 (MPEG audio layer 3),MP3 (MPEG-1 Layer III\C Variable Bitrate),2,7355256,44100,12931200,293.224490
 Loops,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0,0:0
 MarkerNumberContinuously,0
@@ -17,7 +17,7 @@ FX_Mix,0,0,100,0
 FX_Tuning,1,1,0,0,0,0,60,50,0
 FX_Transposition,1,1,0,0,0
 FX_EQ,1,0,0,0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
-FX_Speed,1,0,50000,0
+FX_Speed,1,0,100000,0
 FX_Misc,1,0,50,0
 ShowTextZone,0
 ShowPianoRoll,0
@@ -48,12 +48,12 @@ PianoRollBtmNote,24
 PianoRollTopNote,96
 TextZoneSplitterPos,0.250000
 PianoRollSplitterPos,0.500000
-ViewSplitterPos,0.729538
+ViewSplitterPos,0.719425
 VertProfileZoom,1.000000
 HorizProfileZoom,0.628234
-HorizProfilePos,10280
-SelectionLeft,5445113
-SelectionRight,5445113
+HorizProfilePos,22841
+SelectionLeft,5919330
+SelectionRight,5919330
 SectionEnd,View0
 
 SectionStart,Markers
