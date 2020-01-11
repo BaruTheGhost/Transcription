@@ -7,3 +7,6 @@
  - Ruben Horvat
 ### Corrention:
  - Stjepan Horvat
+### PDF:
+ - [Tenor Trombone](https://nbviewer.jupyter.org/github/barutheghost/c_jam_blues_trombone_solo_transcription/blob/master/pdf/c_jam_blues_trombone_solo.pdf)
+ - [Alt Trombone](https://nbviewer.jupyter.org/github/barutheghost/c_jam_blues_trombone_solo_transcription/blob/master/pdf/c_jam_blues_trombone_solo_es.pdf)
