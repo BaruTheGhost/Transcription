@@ -1,4 +1,6 @@
 # About transcription
+### Artist:
+ - Duke Ellington
 ### Song:
  - 56 Duke Ellington - C Jam Blues (Duke: Columbia Years 1927 - 1962)
 ### Album:
